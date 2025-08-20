@@ -40,8 +40,3 @@
   • Expand dataset for higher accuracy in multilingual support.
   
   • Add mobile app deployment with cloud-based AI services.
-
-# 👨💻 Team Roles
-  **Ibrahim Mousa ElSayed Swillem** – **Data Analyst & Model Developer**
-********
-[Add teammates + their roles here if needed]
